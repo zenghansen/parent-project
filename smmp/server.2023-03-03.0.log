@@ -1,0 +1,36 @@
+2023-03-03 18:03:09.366  INFO 9444 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 9444 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2023-03-03 18:03:09.369  INFO 9444 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2023-03-03 18:03:10.742  INFO 9444 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-03-03 18:03:10.957  INFO 9444 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-03-03 18:03:12.139  INFO 9444 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2023-03-03 18:03:12.153  INFO 9444 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 3.177 seconds (JVM running for 4.09)
+2023-03-03 18:03:12.565  INFO 9444 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2023-03-03 18:03:12.567  INFO 9444 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2023-03-03 18:17:21.423  INFO 16980 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 16980 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2023-03-03 18:17:21.424  INFO 16980 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2023-03-03 18:17:22.575  INFO 16980 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-03-03 18:17:22.763  INFO 16980 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-03-03 18:17:23.784  INFO 16980 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2023-03-03 18:17:23.792  INFO 16980 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.674 seconds (JVM running for 3.569)
+2023-03-03 18:17:24.115  INFO 16980 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2023-03-03 18:17:24.117  INFO 16980 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2023-03-03 18:22:16.176  INFO 19534 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 19534 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2023-03-03 18:22:16.180  INFO 19534 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2023-03-03 18:22:17.574  INFO 19534 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-03-03 18:22:17.790  INFO 19534 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-03-03 18:22:19.100  INFO 19534 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2023-03-03 18:22:19.112  INFO 19534 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 3.315 seconds (JVM running for 4.737)
+2023-03-03 18:22:19.457  INFO 19534 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2023-03-03 18:22:19.458  INFO 19534 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2023-03-03 18:22:22.702  INFO 19598 --- [main] com.example.smmp.SmmpApplication         : Starting SmmpApplication using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 19598 (/Users/zenghansen/work/java/ssmp/target/classes started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2023-03-03 18:22:22.706  INFO 19598 --- [main] com.example.smmp.SmmpApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-03-03 18:22:24.236  INFO 19598 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-03 18:22:24.246  INFO 19598 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-03 18:22:24.246  INFO 19598 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2023-03-03 18:22:24.349  INFO 19598 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-03 18:22:24.349  INFO 19598 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1602 ms
+2023-03-03 18:22:24.485  INFO 19598 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2023-03-03 18:22:24.740  INFO 19598 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2023-03-03 18:22:25.661  INFO 19598 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-03 18:22:25.668  INFO 19598 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2023-03-03 18:22:25.674  INFO 19598 --- [main] com.example.smmp.SmmpApplication         : Started SmmpApplication in 3.296 seconds (JVM running for 3.794)

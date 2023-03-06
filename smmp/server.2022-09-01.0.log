@@ -1,0 +1,84 @@
+2022-09-01 11:51:56.206  INFO 59127 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 59127 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 11:51:56.207  INFO 59127 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 11:51:57.436  INFO 59127 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 11:51:57.636  INFO 59127 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 11:51:58.577  INFO 59127 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.688 seconds (JVM running for 3.638)
+2022-09-01 11:51:59.499  INFO 59127 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 11:51:59.503  INFO 59127 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 11:53:03.462  INFO 59697 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 59697 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 11:53:03.464  INFO 59697 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 11:53:04.544  INFO 59697 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 11:53:04.743  INFO 59697 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 11:53:05.723  INFO 59697 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.629 seconds (JVM running for 3.639)
+2022-09-01 11:53:06.494  INFO 59697 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 11:53:06.501  INFO 59697 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:05:35.261  INFO 20986 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 20986 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:05:35.264  INFO 20986 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:05:36.601  INFO 20986 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:05:36.831  INFO 20986 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:05:37.867  INFO 20986 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 3.027 seconds (JVM running for 4.133)
+2022-09-01 14:05:38.729  INFO 20986 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:05:38.732  INFO 20986 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:06:57.698  INFO 21643 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 21643 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:06:57.700  INFO 21643 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:06:58.850  INFO 21643 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:06:59.049  INFO 21643 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:06:59.968  INFO 21643 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.603 seconds (JVM running for 3.53)
+2022-09-01 14:07:00.770  INFO 21643 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:07:00.774  INFO 21643 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:07:14.886  INFO 21789 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 21789 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:07:14.887  INFO 21789 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:07:15.935  INFO 21789 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:07:16.179  INFO 21789 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:07:17.205  INFO 21789 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.625 seconds (JVM running for 3.517)
+2022-09-01 14:07:17.939  INFO 21789 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:07:17.943  INFO 21789 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:09:34.310  INFO 22912 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 22912 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:09:34.312  INFO 22912 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:09:35.667  INFO 22912 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:09:35.960  INFO 22912 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:09:36.975  INFO 22912 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 3.076 seconds (JVM running for 4.071)
+2022-09-01 14:09:37.743  INFO 22912 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:09:37.748  INFO 22912 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:10:17.205  INFO 23246 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 23246 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:10:17.212  INFO 23246 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:10:18.302  INFO 23246 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:10:18.511  INFO 23246 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:10:19.462  INFO 23246 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.564 seconds (JVM running for 3.499)
+2022-09-01 14:10:20.221  INFO 23246 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:10:20.224  INFO 23246 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:34:55.054  INFO 35534 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 35534 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:34:55.056  INFO 35534 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:34:56.355  INFO 35534 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:34:56.601  INFO 35534 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:34:57.579  INFO 35534 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.89 seconds (JVM running for 3.87)
+2022-09-01 14:34:58.415  INFO 35534 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:34:58.420  INFO 35534 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:39:32.628  INFO 37742 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 37742 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:39:32.630  INFO 37742 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:39:33.649  INFO 37742 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:39:33.864  INFO 37742 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:39:34.964  INFO 37742 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.664 seconds (JVM running for 3.643)
+2022-09-01 14:39:35.772  INFO 37742 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:39:35.776  INFO 37742 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:40:41.870  INFO 38298 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 38298 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:40:41.871  INFO 38298 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:40:42.954  INFO 38298 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:40:43.148  INFO 38298 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:40:44.055  INFO 38298 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.563 seconds (JVM running for 3.558)
+2022-09-01 14:40:44.840  INFO 38298 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:40:44.844  INFO 38298 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 14:46:22.294  INFO 41057 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 41057 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 14:46:22.295  INFO 41057 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 14:46:23.507  INFO 41057 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 14:46:23.736  INFO 41057 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 14:46:24.668  INFO 41057 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.693 seconds (JVM running for 3.683)
+2022-09-01 14:46:25.460  INFO 41057 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 14:46:25.465  INFO 41057 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-09-01 15:14:09.648  INFO 54301 --- [main] com.example.smmp.SmmpApplicationTests    : Starting SmmpApplicationTests using Java 1.8.0_181 on cenghansens-MacBook-Pro.local with PID 54301 (started by zenghansen in /Users/zenghansen/work/java/ssmp)
+2022-09-01 15:14:09.650  INFO 54301 --- [main] com.example.smmp.SmmpApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-09-01 15:14:10.744  INFO 54301 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-09-01 15:14:10.964  INFO 54301 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-09-01 15:14:11.915  INFO 54301 --- [main] com.example.smmp.SmmpApplicationTests    : Started SmmpApplicationTests in 2.612 seconds (JVM running for 3.571)
+2022-09-01 15:14:12.779  INFO 54301 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-09-01 15:14:12.784  INFO 54301 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed

@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    zhs.com.ip_spring_boot_starter.autoconfig.IpAutoConfiguration
